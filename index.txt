@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Danish Mushtaq - Web Developer from Kashmir
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Danish Mushtaq
 
 aria-label = Toggle Menu
 
@@ -24,7 +24,7 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = Danish's Photo
 
 12
 Years of Success
