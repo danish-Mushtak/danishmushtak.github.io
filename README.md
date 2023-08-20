@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/danishmushtak/portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/danishmushtak/portfolio?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/DanishMushtaq01?style=social)](https://twitter.com/intent/follow?screen_name=DanishMushtaq01)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://https://youtu.be/OpeI1x96TTk)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/OpeI1x96TTk)
 
   <br />
   <br />
