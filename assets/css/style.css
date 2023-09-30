@@ -354,15 +354,6 @@ body {
   align-items: center;
   gap: 10px;
 }
-body {
-  background-color: #ddd;
-  padding: 80px 16px 16px 16px;
-}
-
-body {
-  background-color: #ddd;
-  padding: 80px 16px 16px 16px;
-}
 
 .social-buttons {
   display: flex;
