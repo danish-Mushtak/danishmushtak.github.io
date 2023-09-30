@@ -431,10 +431,10 @@ body {
   background: #212121;
 }
 .social-button--google {
-  color: #6e5494;
+  color: #50c7c7;
 }
 .social-button--google::after {
-  background: #6e5494;
+  background: #50c7c7;
 }
 .social-button--steam {
   color: #7da10e;
