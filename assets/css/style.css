@@ -425,16 +425,16 @@ body {
   background: #0077b5;
 }
 .social-button--github {
-  color: #6e5494;
-}
-.social-button--github::after {
-  background: #6e5494;
-}
-.social-button--codepen {
   color: #212121;
 }
-.social-button--codepen::after {
+.social-button--github::after {
   background: #212121;
+}
+.social-button--codepen {
+  color: #6e5494;
+}
+.social-button--codepen::after {
+  background: #6e5494;
 }
 .social-button--steam {
   color: #7da10e;
