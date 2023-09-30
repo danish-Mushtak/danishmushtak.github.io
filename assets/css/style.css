@@ -430,10 +430,10 @@ body {
 .social-button--github::after {
   background: #212121;
 }
-.social-button--codepen {
+.social-button--google {
   color: #6e5494;
 }
-.social-button--codepen::after {
+.social-button--google::after {
   background: #6e5494;
 }
 .social-button--steam {
