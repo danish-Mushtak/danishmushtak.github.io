@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/danishmushtak/portfolio)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/danishmushtak.github.io)
   ![GitHub stars](https://img.shields.io/github/stars/danishmushtak/portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/danishmushtak/portfolio?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/DanishMushtaq01?style=social)](https://twitter.com/intent/follow?screen_name=DanishMushtaq01)
