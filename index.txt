@@ -26,21 +26,20 @@ Download CV
 
 alt = Danish's Photo
 
-12
+3+
 Years of Success
 
-800+
+50+
 Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
-alt = I'm developer from New York
-
+alt = I'm developer from Kulgam
 Hello I'm
 
-Ethan Ward
+Danish Mushtaq
 
-Web Developer from New York
+Web Developer from Kulgam
 
 Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
 
@@ -52,9 +51,9 @@ About Me
 
 #---------- ABOUT ----------#
 
-alt = Ethan's Photo
+alt = Danish's Photo
 
-alt = Ethan's Photo
+alt = Danish's Photo
 
 <ion-icon name="logo-css3"></ion-icon>
 <ion-icon name="logo-javascript"></ion-icon>
@@ -82,14 +81,14 @@ Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in 
 
 Youtube
 
-Web Application for Desiverse
+Web Application for sukoon e kashmeer
 
 View Project 
 <ion-icon name="arrow-forward"></ion-icon>
 
-Vimeo
+Youtube
 
-Soundcloud
+Padaku
 
 Details
 
@@ -106,8 +105,8 @@ Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in 
 CSS
 95%
 
-React
-75%
+HTML
+95%
 
 MongoDB
 90%
@@ -139,11 +138,11 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+kulgam kashmir 
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+dev@moinside.online
 
 <ion-icon name="call"></ion-icon>
 Phone
@@ -169,7 +168,7 @@ Jim Morisson Says when the musics over turn off the light
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2023 moinside. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
