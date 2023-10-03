@@ -188,6 +188,10 @@ body {
 
 .btn-primary.blue:is(:hover, :focus) { background-color: var(--orange-soda); }
 
+.btn-primary.orange { background-color: var(--orange-soda); }
+
+.btn-primary.orange:is(:hover, :focus) { background-color: var(--klein-blue); }
+
 .img-cover {
   width: 100%;
   height: 100%;
