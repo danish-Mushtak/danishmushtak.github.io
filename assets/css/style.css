@@ -449,10 +449,10 @@ body {
   background: #eec900;
 }
 .social-button--x {
-  color: #55acee;
+  color: #212121;
 }
 .social-button--x::after {
-  background: #55acee;
+  background: #212121;
 }
 .social-button--instagram {
   color: #e4405f;
