@@ -22,6 +22,7 @@ Ionicon
 ---
 Social Buttons
 
+``` html
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
 ```
 
