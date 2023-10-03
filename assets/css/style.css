@@ -448,10 +448,10 @@ body {
 .social-button--snapchat::after {
   background: #eec900;
 }
-.social-button--x-twitter {
+.social-button--twitter {
   color: #55acee;
 }
-.social-button--x-twitter::after {
+.social-button--twitter::after {
   background: #55acee;
 }
 .social-button--instagram {
