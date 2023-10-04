@@ -186,11 +186,11 @@ body {
 
 .btn-primary.blue { background-color: var(--klein-blue); }
 
-.btn-primary.blue:is(:hover, :focus) { background-color: var(--orange-soda); }
+.btn-primary.blue:is(:hover, :focus) { background-color: var(--white); }
 
 .btn-primary.orange { background-color: var(--orange-soda); }
 
-.btn-primary.orange:is(:hover, :focus) { background-color: var(--klein-blue); }
+.btn-primary.orange:is(:hover, :focus) { background-color: var(--white); }
 
 .img-cover {
   width: 100%;
