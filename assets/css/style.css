@@ -190,6 +190,8 @@ body {
 
 .btn-primary.orange { background-color: var(--orange-soda); }
 
+.btn-primary.orange:is(:hover, :focus) { background-color: var(--white); color: var(--black);}
+
 
 .img-cover {
   width: 100%;
