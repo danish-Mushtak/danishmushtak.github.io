@@ -186,7 +186,7 @@ body {
 
 .btn-primary.blue { background-color: var(--klein-blue); }
 
-.btn-primary.blue:is(:hover, :focus) { background-color: var(--white); }
+.btn-primary.blue:is(:hover, :focus) { background-color: var(--white)  btn.color: var(--black); }
 
 .btn-primary.orange { background-color: var(--orange-soda); }
 
